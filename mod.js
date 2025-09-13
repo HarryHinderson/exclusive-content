@@ -30,7 +30,13 @@ module.exports = {
       "assets://exclusive_content/dave_book_cover.png",
       "assets://exclusive_content/sbahj1.png",
       "assets://exclusive_content/sbahj5.png",
-      "assets://exclusive_content/sbahj7.png"
+      "assets://exclusive_content/sbahj7.png",
+      "assets://exclusive_content/pesterquest_early.png",
+      "assets://exclusive_content/pesterquest_early2.png",
+      "assets://exclusive_content/pesterquest_early3.png",
+      "assets://exclusive_content/pesterquest_early4.png",
+      "assets://exclusive_content/horsaroni.png",
+      "assets://exclusive_content/aspects.png"
       ],
       "content": "",
       "next": []
